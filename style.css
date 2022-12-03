@@ -1,0 +1,25 @@
+*{
+ margin: auto;
+text-align: center;
+
+}
+
+body{
+    background-color: rgb(138, 212, 206)  !important;
+    
+}
+
+*.carousel-inner{
+ border: 50pxpx;
+border-radius: 200%;
+border-color: rgba(2, 14, 19, 0.555);
+
+}
+
+*.card-group{
+
+border: 50%;
+border-style: dashed;
+border-color: rgb(21, 92, 184);
+
+}
